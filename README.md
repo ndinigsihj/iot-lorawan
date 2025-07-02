@@ -16,7 +16,7 @@ senzflow-sdk.js是 `senzflow.io` 提供的`node.js`平台网关设备开发SDK. 
 
 __使用该SDK需要先__
 
-* 开通`senzflow.io`帐号
+* 开通`senzflow.io`帐号，目前已经停用
 * 在云端创建和下载数字证书
 * 在云端添加网关，定义网关ID`(GATEWAY-ID)`
 * 在云端添加设备，定义设备ID`(DEVICE-ID)`

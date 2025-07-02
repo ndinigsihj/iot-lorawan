@@ -1,6 +1,6 @@
 # SDK
 
-senzflow-sdk.js是 `senzflow.io` 提供的`node.js`平台网关设备开发SDK. 
+senzflow-sdk.js是 `senzflow.io` 提供的`node.js`平台网关设备开发SDK. 支持标准的lorawan协议
 
 # 安装
 
